@@ -9,12 +9,10 @@
 }
 
 .ql-snow .ql-picker.ql-font .ql-picker-label[data-value='times-new-roman']::before,
-.ql-snow .ql-picker.ql-font .ql-picker-item[data-value='times-new-roman']::before
-{
+.ql-snow .ql-picker.ql-font .ql-picker-item[data-value='times-new-roman']::before {
     content: 'Times New Roman';
     font-family: 'Times New Roman';
-
-
+}
 .ql-snow .ql-picker.ql-font .ql-picker-label[data-value='arial']::before,
 .ql-snow .ql-picker.ql-font .ql-picker-item[data-value='arial']::before
 {
